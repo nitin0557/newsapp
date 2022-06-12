@@ -1,0 +1,4 @@
+
+
+
+<Route path="/"> <News pageSize={5} country='in' category='sports'/></Route>
